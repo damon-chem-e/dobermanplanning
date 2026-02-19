@@ -11,6 +11,7 @@ This section analyzes income potential from trading operations through Doberman 
 - **tax-strategy-analysis.md**: Comprehensive analysis of four tax treatment scenarios (A-D)
 - **borrow-strategy-and-tax-reduction-options.md**: How borrowing defers tax and legitimate tax reduction options
 - **borrow-vs-savings-strategy.md**: Compare using savings vs borrowing for living expenses
+- **tts-deduction-optimization.md**: Maximize Trader Tax Status deductions, including self-developed software
 
 ## Quick Summary
 
