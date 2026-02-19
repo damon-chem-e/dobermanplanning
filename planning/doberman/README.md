@@ -9,6 +9,7 @@ This section analyzes income potential from trading operations through Doberman 
 - **income-analysis.md**: Detailed analysis of income scenarios, costs, and financial sustainability
 - **income_calculator.py**: Interactive Python script for calculating pre-tax income, taxes, and savings
 - **income-targets.md**: Pre-tax daily income needed for after-tax goals ($200K-$20M)
+- **capital-requirements.md**: Capital required by daily return rate (10-100 bps)
 - **tax-strategy-analysis.md**: Comprehensive analysis of four tax treatment scenarios (A-D)
 - **borrow-strategy-and-tax-reduction-options.md**: How borrowing defers tax and legitimate tax reduction options
 - **borrow-vs-savings-strategy.md**: Compare using savings vs borrowing for living expenses
