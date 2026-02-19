@@ -7,9 +7,10 @@ This section analyzes income potential from trading operations through Doberman 
 ## Files
 
 - **income-analysis.md**: Detailed analysis of income scenarios, costs, and financial sustainability
-- **income_calculator.py**: Interactive Python script for calculating and comparing income scenarios
-- **tax-strategy-analysis.md**: Comprehensive analysis of four tax treatment scenarios (A-D) including offshore structures
-- **borrow-strategy-and-tax-reduction-options.md**: How borrowing defers tax and legitimate options for reducing trading taxes
+- **income_calculator.py**: Interactive Python script for calculating pre-tax income, taxes, and savings
+- **tax-strategy-analysis.md**: Comprehensive analysis of four tax treatment scenarios (A-D)
+- **borrow-strategy-and-tax-reduction-options.md**: How borrowing defers tax and legitimate tax reduction options
+- **borrow-vs-savings-strategy.md**: Compare using savings vs borrowing for living expenses
 
 ## Quick Summary
 
@@ -17,22 +18,23 @@ This section analyzes income potential from trading operations through Doberman 
 - Property Costs (mortgage, tax, insurance, utilities, maintenance): $3,334-3,564
 - Living Costs (transportation, food, healthcare, entertainment): $2,108-2,808
 - Operating Costs (servers, data, software): $1,000-2,000
-- **Total Monthly**: $6,442-8,372
+- **Total Monthly**: $6,442-8,372 ($88,800/year midpoint)
 
-### Break-Even Analysis
-- Break-even daily income (252 trading days): $256-332/day
-- Break-even daily income (365 days): $177-229/day
+### Pre-Tax Income Scenarios (Short-Term Gains)
 
-### Income Scenarios
+| Daily Income | Days | Pre-Tax | Tax | After-Tax | Coverage |
+|--------------|------|---------|-----|-----------|----------|
+| $1,000 | 252 | $234,000 | $53,235 | $180,765 | 2.0x |
+| $2,000 | 252 | $486,000 | $150,515 | $335,485 | 3.8x |
+| $3,000 | 252 | $738,000 | $250,524 | $487,476 | 5.5x |
 
-| Daily Income | Trading Days | Annual Gross | Monthly Net | Monthly Surplus | Coverage |
-|--------------|--------------|--------------|-------------|-----------------|----------|
-| $1,000 | 252 | $252,000 | $19,500 | $12,958 | 2.97x |
-| $1,000 | 365 | $365,000 | $29,417 | $22,875 | 4.49x |
-| $2,000 | 252 | $504,000 | $40,500 | $33,958 | 6.19x |
-| $2,000 | 365 | $730,000 | $60,833 | $54,291 | 9.30x |
-| $3,000 | 252 | $756,000 | $61,000 | $54,458 | 9.32x |
-| $3,000 | 365 | $1,095,000 | $91,250 | $84,708 | 13.94x |
+### Years to $1M (Net Worth)
+
+| Daily Income | Days | Use Savings | Borrow for Living |
+|--------------|------|-------------|-------------------|
+| $1,000 | 252 | 10.9 years | 5.5 years |
+| $2,000 | 252 | 4.1 years | 3.0 years |
+| $3,000 | 252 | 2.5 years | 2.1 years |
 
 ## Using the Calculator
 
