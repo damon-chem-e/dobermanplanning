@@ -8,7 +8,8 @@ This section analyzes income potential from trading operations through Doberman 
 
 - **income-analysis.md**: Detailed analysis of income scenarios, costs, and financial sustainability
 - **income_calculator.py**: Interactive Python script for calculating and comparing income scenarios
-- **tax-strategy-analysis.md**: Comprehensive analysis of three tax treatment scenarios for trading income
+- **tax-strategy-analysis.md**: Comprehensive analysis of four tax treatment scenarios (A-D) including offshore structures
+- **borrow-strategy-and-tax-reduction-options.md**: How borrowing defers tax and legitimate options for reducing trading taxes
 
 ## Quick Summary
 
